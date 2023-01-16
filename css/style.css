@@ -45,3 +45,22 @@ h1{
 ul{
     padding-left: 15px;
 }
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #20a9e5;
+    color: #ffffff;
+    
+}
+
+tbody{
+    background-color: #b1e5f2;
+}
+
+th{
+    width: 33%;
+}
