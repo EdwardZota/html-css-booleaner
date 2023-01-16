@@ -62,7 +62,7 @@ tbody{
     background-color: #b1e5f2;
 }
 
-tr:nth-child(2n+0) {
+tr:nth-child(2) {
     background-color: #ffffff;
 }
 
