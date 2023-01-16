@@ -1,0 +1,91 @@
+body{
+    margin: 0%;
+}
+main ,footer {
+    width: 70%;
+    margin: auto;
+}
+
+header{
+    background-size:35%;
+    background-image: url("../img/pattern.png");
+    background-color: rgba(68, 160, 255, 1.0);
+}
+
+header img{
+    height: 60px;
+}
+
+header #logo{
+    width: 70%;
+    margin: auto;
+}
+h1{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+#from{
+    color: #929292;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+#from a{
+    text-decoration: none;
+    color: #46b7e9;
+}
+
+#date{
+    font-size: 12px;
+}
+
+.description{
+    font-size: 10px;
+    margin-top: 0;
+}
+
+ul{
+    padding-left: 15px;
+}
+/*non penso sia corretta la tabella ma per lo piu che abbia trovato una scappatoia sbagliata */
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #20a9e5;
+    color: #ffffff;
+    
+}
+
+tbody{
+    background-color: #b1e5f2;
+}
+
+tr:nth-child(2n+0) {
+    background-color: #ffffff;
+}
+
+th{
+    width: 33%;
+}
+/*fine tabella*/
+.photo-container{
+    position: relative;
+}
+
+footer p{
+    color: #929292;
+}
+
+.top-left {
+    color: #ffffff;
+    font-size: 25px;
+    position: absolute;
+    top: -15px;
+    left: 5px;
+}
