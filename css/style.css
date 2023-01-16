@@ -1,6 +1,9 @@
 body{
     margin: 0%;
 }
+main{
+    margin-left: 5px;
+}
 
 header{
     background-size:35%;
@@ -12,4 +15,33 @@ header img{
     width: 200px;
     margin-top: 30px;
     margin-left: 5px;
+}
+h1{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+#from{
+    color: #929292;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+#from a{
+    text-decoration: none;
+    color: #46b7e9;
+}
+
+#date{
+    font-size: 12px;
+}
+
+.description{
+    font-size: 10px;
+    margin-top: 0;
+}
+
+ul{
+    padding-left: 15px;
 }
