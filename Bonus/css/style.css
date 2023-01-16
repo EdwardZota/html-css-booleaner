@@ -1,7 +1,7 @@
 body{
     margin: 0%;
 }
-main ,footer {
+main ,footer ,header #logo{
     width: 70%;
     margin: auto;
 }
@@ -16,10 +16,6 @@ header img{
     height: 60px;
 }
 
-header #logo{
-    width: 70%;
-    margin: auto;
-}
 h1{
     font-size: 40px;
     margin-top: 10px;
