@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+}
+
+header{
+    background-size:35%;
+    background-image: url("../img/pattern.png");
+    background-color: rgba(68, 160, 255, 1.0);
+}
+
+header img{
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 5px;
+}
